@@ -1,0 +1,11 @@
+title: Awards
+entrytype: generic-two-by-two
+entries:
+  - top-left: "Hans-Riegel Award for Computer Science"
+    top-right: "2019"
+    bottom-left: "Paper: limits and possibilities of neural networks"
+
+  - top-left: "BWKI (Youth Competition for AI), finalist"
+    top-right: "2019"
+    bottom-left: "Team KORI (wildlife quantification on drone images)"
+

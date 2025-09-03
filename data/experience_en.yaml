@@ -1,0 +1,65 @@
+title: Experience
+entrytype: work
+entries:
+  - title: "Working Student"
+    location: "Dresden"
+    company: "Technical University of Dresden"
+    dates: "Jun 2024 – Dec 2024"
+    content: "- Development and maintenance of ML pipeline and automated testing system"
+
+  - title: "Thesis Student"
+    location: "Renningen"
+    company: "Robert Bosch GmbH"
+    dates: "Nov 2023 – Mar 2024"
+    content: "- LLM Translation for VQA"
+
+  - title: "CTO"
+    location: "Munich"
+    company: "Signae (startup)"
+    dates: "Jan 2023 – Feb 2024"
+    content: "- Automatic translation of sign language"
+
+  - title: "Working Student"
+    location: "Renningen"
+    company: "Robert Bosch GmbH"
+    dates: "Jan 2023 – Jun 2023"
+    content: "- Monocular depth estimation in autonomous driving"
+
+  - title: "Intern"
+    location: "Renningen"
+    company: "Robert Bosch GmbH"
+    dates: "Aug 2022 – Dec 2022"
+    content: "- Stereocamera synthetic birds eye view reconstruction"
+
+  - title: "Tutor"
+    location: "Karlsruhe"
+    company: "Hochschule Karlsruhe (University of Applied Sciences)"
+    dates: "Sep 2021 – Aug 2022"
+    content: "- Calculus & Linear Algebra"
+
+  - title: "Research Associate"
+    location: "Dresden"
+    company: "Technical University of Dresden"
+    dates: "Sep 2021 – Dec 2021"
+    content: "- Design of mobile communication channel prediction system with ML-assisted methods"
+
+  - title: "ML Engineer (Freelance)"
+    location: "Remote"
+    company: "Self-employed"
+    dates: "2020 – 2022"
+    content: "- Implementation of trading algorithms with supervised and reinforcement learning"
+
+  - title: "Early Study Student"
+    location: "Bonn"
+    company: "University of Bonn"
+    dates: "2018 – 2019"
+    content: |
+      - Participation in 'Fördern, Fordern, Forschen'
+      - Lectures: Object Oriented Programming & Algebra I
+
+  - title: "Intern"
+    location: "Dortmund"
+    company: "Technical University Dortmund, Department of Mathematics"
+    dates: "2017"
+    content: "- Insights into Research, Programming, Robotics & 3D-Printing"
+

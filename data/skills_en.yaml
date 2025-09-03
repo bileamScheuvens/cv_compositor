@@ -1,0 +1,18 @@
+title: Relevant Skills
+entrytype: generic-two-by-two
+entries:
+  - top-left: "Text editing / Typesetting"
+    bottom-left: "Vim, Visual Studio Code, Typst, LaTeX"
+
+  - top-left: "Operating Systems"
+    bottom-left: "NixOS, Microsoft Windows, Ubuntu"
+
+  - top-left: "Programming Languages"
+    bottom-left: "Julia, Python, C, F#"
+
+  - top-left: "Query Languages"
+    bottom-left: "SQL, MQL, Cypher, SPARQL"
+
+  - top-left: "Version Control"
+    bottom-left: "Git"
+

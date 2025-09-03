@@ -1,0 +1,28 @@
+title: Education
+entrytype: edu
+entries:
+  - institution: "Eberhard Karls University of Tübingen"
+    location: "Tübingen"
+    dates: "Oct 2024 – Jul 2026"
+    degree: "M.Sc. Machine Learning"
+
+  - institution: "Hochschule Karlsruhe (University of Applied Sciences)"
+    location: "Karlsruhe"
+    dates: "Sep 2020 – Apr 2024"
+    degree: "B.Sc. Data Science, Average 1.2 (≈ GPA: 3.8)"
+
+  - institution: "Integrierte Gesamtschule Bonn-Beuel"
+    location: "Bonn"
+    dates: "2018 – 2020"
+    degree: "Abitur, June 2020, Average: 1.4 (≈ GPA: 3.6)"
+
+  - institution: "Royken vidaregaende skole"
+    location: "Røyken"
+    dates: "Jan 2018 – Jun 2018"
+    degree: "Exchange Year Norway"
+
+  - institution: "Flora vidaregåande skule"
+    location: "Florø"
+    dates: "Aug 2017 – Dec 2017"
+    degree: "Exchange Year Norway"
+

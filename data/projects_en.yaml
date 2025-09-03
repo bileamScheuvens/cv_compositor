@@ -1,0 +1,24 @@
+title: Projects
+entrytype: project
+entries:
+  - name: "Volume Segmentation"
+    content: "- Implementation of U-net architecture for volume segmentation of lung scans from public dataset in NifTi format"
+
+  - name: "Synthesis of Religious Texts"
+    content: "- Design and Implementation of a generative LSTM model trained on handcrafted dataset"
+
+  - name: "Julia Registry Analysis"
+    content: "- Visualization of the dependency graph for packages in the Julia general registry"
+
+  - name: "IoT Interaction Modeling"
+    url: "github.com/bileamScheuvens/IoT-Modelling"
+    content: "- Agent-based simulation for devices in a network and analysis of resulting interaction graph"
+
+  - name: "MonCLItype"
+    url: "github.com/bileamScheuvens/monclitype"
+    content: "- Offline typing practice in the terminal"
+
+  - name: "Catalert"
+    url: "github.com/bileamScheuvens/catalert"
+    content: "- Maintain database of adoptable cats in several shelters with automated newsletter on changes to alert subscribers of cats adopted or newly up for adoption"
+
