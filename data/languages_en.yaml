@@ -1,18 +1,19 @@
 title: Language Skills
 entrytype: generic-one-by-two
+preferred_pos: 4
 entries:
-  - title: "German"
-    content: "native speaker"
+  - left: "German"
+    right: "native speaker"
 
-  - title: "English"
-    content: "Advanced"
+  - left: "English"
+    right: "Advanced"
 
-  - title: "Norwegian"
-    content: "Advanced"
+  - left: "Norwegian"
+    right: "Advanced"
 
-  - title: "Latin"
-    content: "Latinum"
+  - left: "Latin"
+    right: "Latinum"
 
-  - title: "Esperanto"
-    content: "Basic"
+  - left: "Esperanto"
+    right: "Basic"
 

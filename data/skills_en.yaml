@@ -1,5 +1,6 @@
 title: Relevant Skills
 entrytype: generic-two-by-two
+preferred_pos: 3
 entries:
   - top-left: "Text editing / Typesetting"
     bottom-left: "Vim, Visual Studio Code, Typst, LaTeX"

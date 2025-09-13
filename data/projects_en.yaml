@@ -1,5 +1,6 @@
 title: Projects
 entrytype: project
+preferred_pos: 5
 entries:
   - name: "Volume Segmentation"
     description: "- Implementation of U-net architecture for volume segmentation of lung scans from public dataset in NifTi format"

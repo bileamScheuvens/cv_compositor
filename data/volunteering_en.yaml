@@ -1,7 +1,8 @@
 title: Volunteering
-entrytype: generic-one-by-two
+entrytype: generic-two-by-two
+preferred_pos: 6
 entries:
-  - title: "Student Council"
-    dates: "2015 – 2017"
-    content: "Financial auditor and member of district delegates conference"
+  - top-left: "Student Council"
+    top-right: "2015 – 2017"
+    bottom-left: "Financial auditor and member of district delegates conference"
 
