@@ -1,13 +1,9 @@
 import os
-import subprocess
 import yaml
 
 
-BASEPATH = os.path.join(os.path.dirname(__file__), "..")
-DATAPATH = os.path.join(BASEPATH, "data")
-OUTPATH = os.path.join(BASEPATH, "out")
-
-header = """#import "../templates/preamble.typ": *
+def make_header(DATAPATH):
+    header = """#import "../templates/preamble.typ": *
 
 #show: resume.with(
   author-position: left,
@@ -15,11 +11,12 @@ header = """#import "../templates/preamble.typ": *
   accent-color: "#26428b",
 """
 
-with open(os.path.join(DATAPATH, "headers_en.yaml"), "r") as f:
-    for k,v in yaml.safe_load(f).items():
-        header += f"  {k}: \"{v}\",\n"
+    with open(os.path.join(DATAPATH, "headers_en.yaml"), "r") as f:
+        for k,v in yaml.safe_load(f).items():
+            header += f"  {k}: \"{v}\",\n"
 
-header += ")\n"
+    header += ")\n"
+    return header
 
 
 class Section:
@@ -58,23 +55,4 @@ class Section:
                 outstr += entry["content"]
             outstr += "\n"
         return outstr + "\n"
-
-    def toggle_mask(self, idx):
-        self.mask[idx] = not self.mask[idx]
-
-
-
-def write_document(sections, filename="out"):
-    with open(os.path.join(OUTPATH, f"{filename}.typ"), "w") as f:
-        f.write(header)
-        for s in sections:
-            f.write(str(s))
-
-def compile_document(filename="out", verbose=False):
-    compilation_result = subprocess.run(f"typst compile --root .. {OUTPATH}/{filename}.typ ", shell=True, capture_output=True, text=True)
-    if verbose:
-        print(compilation_result.stdout)
-        print(compilation_result.stderr)
-
-
 
