@@ -2,18 +2,5 @@ title: Relevant Skills
 entrytype: generic-two-by-two
 preferred_pos: 3
 entries:
-  - top-left: "Text editing / Typesetting"
-    bottom-left: "Vim, Visual Studio Code, Typst, LaTeX"
-
-  - top-left: "Operating Systems & HPC Tooling"
-    bottom-left: "NixOS, Debian, Microsoft Windows, Singularity, Docker, Slurm"
-
-  - top-left: "Programming Languages"
-    bottom-left: "Julia, Python, C, F#"
-
-  - top-left: "Query Languages"
-    bottom-left: "SQL, MQL, Cypher, SPARQL"
-
-  - top-left: "Version Control"
-    bottom-left: "Git"
-
+  - top-left: "Skill category"
+    bottom-left: "skill 1, skill 2"

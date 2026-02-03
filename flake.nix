@@ -18,6 +18,7 @@
       devShells.${system}.default = pkgs.mkShell rec {
         buildInputs = with pkgs; [
           python3
+          typst
           (python3.withPackages (
             ps: with ps; [
               # example of packaged an unpackaged dep

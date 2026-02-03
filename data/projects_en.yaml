@@ -2,41 +2,10 @@ title: Selected Projects
 entrytype: project
 preferred_pos: 5
 entries:
-  - name: "Volume Segmentation"
-    description: "- Implementation of U-net architecture for volume segmentation of lung scans from public dataset in NifTi format"
-
-  - name: "Synthesis of Pseudoreligious Texts"
-    description: "- Design and Implementation of a generative LSTM model trained on handcrafted dataset"
-
-  - name: "Julia Registry Analysis"
-    description: "- Visualization of the dependency graph for packages in the Julia general registry"
-
-  - name: "IoT Interaction Modeling"
-    shown_url: "IoT-Modelling"
-    full_url: "https://www.github.com/bileamScheuvens/IoT-Modelling"
-    description: "- Agent-based simulation for devices in a network and analysis of resulting interaction graph"
-
-  - name: "MonCLItype"
-    shown_url: "monclitype"
-    full_url: "https://www.github.com/bileamScheuvens/monclitype"
-    description: "- Offline typing practice utility in the terminal"
-    technologies: "Julia, Term.jl"
-
-  - name: "Catalert"
-    shown_url: "catalert"
-    full_url: "https://www.github.com/bileamScheuvens/catalert"
-    description: "- Automated newsletter to alert subscribers of cats newly up for adoption from several shelters across germany"
-    technologies: "Python, BeautifulSoup, Telegram"
-
-  - name: "CV Compositor"
-    shown_url: "cv_compositor"
-    full_url: "https://www.github.com/bileamScheuvens/cv_compositor"
-    description: "- Webapp for creating targeted CVs"
-    technologies: "Python, Streamlit, Typst"
-
-  - name: "Hidden Cost Report"
-    shown_url: "hiddencostreport"
-    full_url: "https://www.github.com/bileamScheuvens/hiddencostreport"
-    description: "- True cost approximation from open data with knowledge graphs"
-    technologies: "Python, Qlever, Oxigraph, Streamlit"
-
+  - name: "Project"
+    shown_url: "Shown Link"
+    full_url: "https://linked_url.com"
+    description: "Description"
+    technologies: "Stack"
+  - name: "Small Project"
+    description: "Description"
