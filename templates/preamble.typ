@@ -19,7 +19,6 @@
   font-size: 10pt,
   body,
 ) = {
-
   // Sets document metadata
   set document(author: author, title: author)
 
@@ -30,12 +29,12 @@
     size: font-size,
     lang: "en",
     // Disable ligatures so ATS systems do not get confused when parsing fonts.
-    ligatures: false
+    ligatures: false,
   )
 
   // Reccomended to have 0.5in margin on all sides
   set page(
-    margin: (0.5in),
+    margin: 0.5in,
     paper: paper,
   )
 
@@ -123,7 +122,7 @@
       spacing: 1fr,
       [#block(width: 67%)[#bottom-left]],
       [#bottom-right],
-  )
+    )
   ]
 }
 
@@ -190,11 +189,11 @@
 }
 
 #let project(
-  name: "",
-  shown_url: "",
-  full_url: "",
-  description: "",
-  technologies: "",
+  name: " ",
+  shown_url: " ",
+  full_url: " ",
+  description: " ",
+  technologies: " ",
 ) = {
   generic-two-by-two(
     top-left: strong(name),
@@ -202,7 +201,7 @@
       link(full_url)[#shown_url]
     },
     bottom-left: description,
-    bottom-right: emph(technologies)
+    bottom-right: emph(technologies),
   )
 }
 
