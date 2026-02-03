@@ -1,4 +1,4 @@
-title: Projects
+title: Selected Projects
 entrytype: project
 preferred_pos: 5
 entries:
@@ -33,4 +33,10 @@ entries:
     full_url: "https://www.github.com/bileamScheuvens/cv_compositor"
     description: "- Webapp for creating targeted CVs"
     technologies: "Python, Streamlit, Typst"
+
+  - name: "Hidden Cost Report"
+    shown_url: "hiddencostreport"
+    full_url: "https://www.github.com/bileamScheuvens/hiddencostreport"
+    description: "- True cost approximation from open data with knowledge graphs"
+    technologies: "Python, Qlever, Oxigraph, Streamlit"
 

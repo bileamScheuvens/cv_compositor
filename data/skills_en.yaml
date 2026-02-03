@@ -5,8 +5,8 @@ entries:
   - top-left: "Text editing / Typesetting"
     bottom-left: "Vim, Visual Studio Code, Typst, LaTeX"
 
-  - top-left: "Operating Systems"
-    bottom-left: "NixOS, Microsoft Windows, Ubuntu"
+  - top-left: "Operating Systems & HPC Tooling"
+    bottom-left: "NixOS, Debian, Microsoft Windows, Singularity, Docker, Slurm"
 
   - top-left: "Programming Languages"
     bottom-left: "Julia, Python, C, F#"
