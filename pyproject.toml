@@ -12,6 +12,10 @@ dependencies = [
     "streamlit (>=1.49.1,<2.0.0)"
 ]
 
+[tool.poetry]
+packages = [
+  { include="*.py", from="src"}
+]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
