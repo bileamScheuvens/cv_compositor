@@ -8,7 +8,7 @@ Simplified CV creation with toggleable entries.
 Install project through *nix*:\
 `>> nix develop .`\
 or *poetry*:\
-`>> poetry install # does not install typst`
+`>> poetry install # does not install typst`\
 or *uv*:\
 No steps necessary.
 
