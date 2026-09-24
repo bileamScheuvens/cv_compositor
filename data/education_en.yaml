@@ -4,7 +4,7 @@ preferred_pos: 1
 entries:
   - institution: "Eberhard Karls University of Tübingen"
     location: "Tübingen"
-    dates: "Oct 2024 – Jul 2026"
+    dates: "Oct 2024 – Feb 2027"
     degree: "M.Sc. Machine Learning"
 
   - institution: "Hochschule Karlsruhe (University of Applied Sciences)"
@@ -26,4 +26,3 @@ entries:
     location: "Florø"
     dates: "Aug 2017 – Dec 2017"
     degree: "Exchange Year Norway"
-
